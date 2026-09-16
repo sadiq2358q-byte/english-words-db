@@ -1,0 +1,22 @@
+{
+  "A1": [
+    {"en": "apple", "az": "alma"},
+    {"en": "book", "az": "kitab"},
+    {"en": "house", "az": "ev"},
+    {"en": "water", "az": "su"},
+    {"en": "cat", "az": "pişik"}
+  ],
+  "A2": [
+    {"en": "advice", "az": "məsləhət"},
+    {"en": "bridge", "az": "körpü"},
+    {"en": "cloud", "az": "bulud"}
+  ],
+  "B1": [
+    {"en": "achieve", "az": "nail olmaq"},
+    {"en": "decision", "az": "qərar"}
+  ],
+  "B2": [
+    {"en": "abandon", "az": "tərk etmək"},
+    {"en": "accurate", "az": "dəqiq"}
+  ]
+}
